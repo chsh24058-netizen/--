@@ -6,7 +6,8 @@ const App = () => {
     const data = [
       {name:"A",width:250 ,height:30 ,verti:100,color:"orange"},
       {name:"B",width:200 ,height:30 ,verti:200,color:"purple"},
-      {name:"C",width:100 ,height:30 ,verti:300,color:"pink"}
+      {name:"C",width:100 ,height:30 ,verti:300,color:"pink"},
+      {name:"D",width:180 ,height:30 ,verti:400,color:"blue"}
     ];
 
     return (
